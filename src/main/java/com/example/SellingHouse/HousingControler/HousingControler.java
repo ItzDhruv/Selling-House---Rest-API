@@ -4,7 +4,7 @@ import com.example.SellingHouse.HousingService.HousingService;
 import com.example.SellingHouse.Model.HousingData;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
+// Home controler
 import java.util.List;
 
 @RestController
